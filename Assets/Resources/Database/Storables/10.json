@@ -1,0 +1,11 @@
+{
+	'$type': "Shield",
+	'id': 10,
+	'rarity': 5,
+	'name': "Shield v3.0",
+	'description': "Upgraded drone shield",
+	'price': 0,
+	'hp': 0,
+	'armor': 35,
+	'type': 3
+}

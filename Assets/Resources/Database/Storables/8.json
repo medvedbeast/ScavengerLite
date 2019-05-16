@@ -1,0 +1,13 @@
+{
+	'$type': "Body",
+	'id': 8,
+	'rarity': 5,
+	'name': "Body v3.0",
+	'description': "Upgraded drone body",
+	'price': 500,
+	'hp': 300,
+	'armor': 0,
+	'type': 1,
+	'movementSpeed': 0.75,
+	'turnSpeed': 1
+}

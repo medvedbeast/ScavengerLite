@@ -1,0 +1,8 @@
+{
+	'$type': "Key",
+	'id': 7,
+	'rarity': 5,
+	'name': "L1 Boss Key",
+	'description': "Boss access key",
+	'price': 500
+}
